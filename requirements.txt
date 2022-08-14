@@ -1,5 +1,5 @@
 django >= 3.0.1,<3.0.3
-psycorg2-bynary >=2.8.0,<2.8.4
+psycorg2-bynary >=2.8.0,<=2.9.3
 flake8>=3.7.7,<3.7.9
 
 
